@@ -1,0 +1,8 @@
+__pycache__/
+.venv/
+.setup-downloads/
+tools/*.exe
+tools/versions.json
+results/
+stream_probe_logs/
+*.zip
